@@ -1,0 +1,11 @@
+flask
+flask-cors
+pandas
+yfinance
+numpy
+scikit-learn
+tensorflow
+streamlit
+requests
+plotly
+pip install re
